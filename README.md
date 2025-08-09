@@ -1,4 +1,4 @@
-MongoDB vs CockroachDB Benchmark
+# MongoDB vs CockroachDB Benchmark
 
 Reproducible, apples-to-apples comparison of MongoDB (NoSQL) and CockroachDB (Distributed SQL) on a social-media-style workload (users/posts). Measures ingest, CRUD, indexed reads, and small read concurrency with matched indexes and a fixed random seed.
 

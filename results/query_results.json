@@ -1,0 +1,13 @@
+{
+  "mongodb": {
+    "seed_posts": 0.0585984168574214,
+    "latest20_avg_ms": 0.6873160402756184,
+    "range7d_avg_ms": 1.905630414839834
+  },
+  "cockroachdb": {
+    "seed_posts": 0.23130641598254442,
+    "latest20_avg_ms": 0.7054066692944616,
+    "range7d_avg_ms": 2.08750499994494
+  },
+  "seed": 4242
+}

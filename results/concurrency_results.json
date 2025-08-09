@@ -1,0 +1,35 @@
+{
+  "mongodb": {
+    "read_threads_10": {
+      "avg_ms": 1.5949869602918625,
+      "p95_ms": 2.4549658526666462,
+      "throughput_qps": 5833.965347889052,
+      "n_threads": 10,
+      "n_ops": 1000
+    },
+    "read_threads_50": {
+      "avg_ms": 6.919105231249705,
+      "p95_ms": 13.871021650265902,
+      "throughput_qps": 6434.38052892308,
+      "n_threads": 50,
+      "n_ops": 5000
+    }
+  },
+  "cockroachdb": {
+    "read_threads_10": {
+      "avg_ms": 1.0130210621282458,
+      "p95_ms": 1.6143648535944521,
+      "throughput_qps": 9184.426678584316,
+      "n_threads": 10,
+      "n_ops": 1000
+    },
+    "read_threads_50": {
+      "avg_ms": 3.3053019817452878,
+      "p95_ms": 5.467285041231662,
+      "throughput_qps": 13406.84755154972,
+      "n_threads": 50,
+      "n_ops": 5000
+    }
+  },
+  "seed": 4242
+}

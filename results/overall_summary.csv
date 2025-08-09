@@ -1,0 +1,7 @@
+Metric,MongoDB,CockroachDB (batched)
+Insert 1000 users (s),0.030098,0.051956
+Insert 5000 posts (s),0.041000,0.156766
+Update avg (ms/op),0.026794,0.029340
+Delete 500 users (s),0.009005,0.039314
+Latest-20 (ms),0.687316,0.705407
+Range 7 days (ms),1.905630,2.087505

@@ -1,0 +1,13 @@
+{
+  "mongodb": {
+    "insert_1000_users": 0.0328037089202553,
+    "single_query": 0.362988340202719,
+    "insert_5000_posts": 0.07662945799529552
+  },
+  "cockroachdb_batched": {
+    "insert_1000_users": 0.051955792121589184,
+    "single_query": 0.36711332853883505,
+    "insert_5000_posts": 0.15676620905287564
+  },
+  "seed": 4242
+}

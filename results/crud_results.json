@@ -1,0 +1,21 @@
+{
+  "mongodb": {
+    "seed_users": 0.015669916989281774,
+    "seed_posts": 0.02178483293391764,
+    "update_1000_users_total_s": 0.02536745904944837,
+    "update_1000_users_avg_ms": 0.02536745904944837,
+    "update_1000_posts_total_s": 0.028219582978636026,
+    "update_1000_posts_avg_ms": 0.028219582978636026,
+    "delete_500_users_total_s": 0.009005292085930705
+  },
+  "cockroachdb": {
+    "seed_users": 0.054984166054055095,
+    "seed_posts": 0.07246558321639895,
+    "update_1000_users_total_s": 0.04078970896080136,
+    "update_1000_users_avg_ms": 0.04078970896080136,
+    "update_1000_posts_total_s": 0.017890708055347204,
+    "update_1000_posts_avg_ms": 0.017890708055347204,
+    "delete_500_users_total_s": 0.03931374987587333
+  },
+  "seed": 4242
+}

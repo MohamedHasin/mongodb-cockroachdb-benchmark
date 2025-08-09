@@ -55,7 +55,7 @@ Repo Structure
 # Limitations
 Single-node containers (no multi-region/failover); desktop-class hardware; read-only concurrency probe.
 
-#Authors
+# Authors
 Mohamed Hasin Hussain · Law Rou Rou · Kiroshan Ram
 
 # SEG2102 Database Management Systems – Sunway University
